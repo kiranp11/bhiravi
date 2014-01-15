@@ -1,6 +1,6 @@
-# bhiravi
+# Bhiravi
 
-A Clojure library designed to ... well, that part is up to you.
+An attempt to make some Karnatik sounds using overtone.
 
 ## Usage
 
