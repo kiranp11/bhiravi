@@ -1,6 +1,6 @@
 # Bhiravi
 
-An attempt to make some Karnatik sounds using overtone.
+An attempt to make some Karnatik music sounds using overtone.
 
 ## Usage
 
